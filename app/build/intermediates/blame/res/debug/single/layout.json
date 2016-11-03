@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\native_camera_fragment.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\native_camera_fragment.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_homepage.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\fragment_homepage.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fixtures_layout.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\fixtures_layout.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_navigation_drawer.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\native_imagegallery_fragment.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\native_imagegallery_fragment.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_fragment_container.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\tab_fragment_container.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_gesture_fragment.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\input_gesture_fragment.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\native_content_scrolling.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\native_content_scrolling.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_textfield.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\input_textfield.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\back_navigation.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\back_navigation.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\crash_fragment.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\crash_fragment.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_toggle_button_fragment.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\input_toggle_button_fragment.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_datepicker_fragment.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\input_datepicker_fragment.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\web_fragment.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\web_fragment.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\up_navigation.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\up_navigation.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\native_mediaplayer_fragment.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\native_mediaplayer_fragment.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notifications_fragment.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\notifications_fragment.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_timepicker_fragment.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\input_timepicker_fragment.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_login.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_checkbox_fragment.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\input_checkbox_fragment.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\native_out_of_view_scrolling.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\native_out_of_view_scrolling.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_row.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\drawer_row.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\supplemental_uploads_extra_data_fragment.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\supplemental_uploads_extra_data_fragment.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_spinner_fragment.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\input_spinner_fragment.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_radio_button_fragment.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\input_radio_button_fragment.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_submit_button_fragment.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\input_submit_button_fragment.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nested_fragment.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\nested_fragment.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_refresh_fragment.xml",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\layout\\input_refresh_fragment.xml"
+    }
+]

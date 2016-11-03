@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-22.2.1_b43b66c83ffc62b16136067fd555f42e789bc4ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_0e966f07d7760d034a85c57972479a1c454cc4f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rmulchandani\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-6.1.0_90b65a14a5164bd180842346fa163af9a262a2f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.5.0_f0d6e584dc6df814bcdb0a207ee5e7913b1ed4ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="bb5a1fc10a30813964d8214de9218f53fe3afca2">
+        <dex dex="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_770b34a157166a68b770b6289aa00d9795fb0416\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.2.0_2d2b05b92a1490a9b13d5c856ca3961962386ad9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rmulchandani\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_83270532fc7d767b978612cc6120da9b6d4fed67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="75dffd214e85e8a6a0fbece69feab164edeaf96d">
+        <dex dex="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_da3b4f0f72dba4af97d6f20c5ba13508869cdde5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rmulchandani\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_40c707c61491892d5f574c3ade37f316f4942309\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.5.0_bf37788508a57e85f443dd46f649e60a05092dcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Newfolder\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_d44e135896c51638a457d2fd6e9509e5065fa704\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.5.0_95692673726a5f2f7ec1feefb4bbd28d52c323d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_92e84e2020c4ca562edce884fa329ad426730451\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\Testathon\aws-device-farm-sample-app-for-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_e348a8bb4e2b3a4ed506e70ffcb8d3df69389b6f\classes.dex" />
+    </item>
+
+</items>

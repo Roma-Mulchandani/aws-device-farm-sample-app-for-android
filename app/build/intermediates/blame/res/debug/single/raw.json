@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fragments.json",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\raw\\fragments.json"
+    },
+    {
+        "merged": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\movie.mp4",
+        "source": "D:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\src\\main\\res\\raw\\movie.mp4"
+    }
+]
