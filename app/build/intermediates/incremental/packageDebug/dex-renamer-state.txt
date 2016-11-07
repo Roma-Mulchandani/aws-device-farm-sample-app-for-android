@@ -1,7 +1,4 @@
-#Tue Oct 25 17:51:39 IST 2016
-base.0=D\:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_da3b4f0f72dba4af97d6f20c5ba13508869cdde5
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=D\:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_770b34a157166a68b770b6289aa00d9795fb0416\\classes.dex
-base.1=D\:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_770b34a157166a68b770b6289aa00d9795fb0416
-file.0=D\:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_da3b4f0f72dba4af97d6f20c5ba13508869cdde5\\classes.dex
+#Fri Nov 04 15:51:57 IST 2016
+base.0=D\:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Testathon\\aws-device-farm-sample-app-for-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -58,7 +58,7 @@ You must set a custom Instrumentation run configuration to run your Espresso tes
 
 <img src="https://github.com/awslabs/aws-device-farm-sample-app-for-android/blob/master/readme_images/espresso-android-studio-set-up.gif" width="1200">
 
-### Building the App and Test APK to Run on Device Farm
+### Building the App and Test1 APK to Run on Device Farm
 You will need two APKs: the app apk and the Espresso (Instrumentation) test apk.
 
 #### Step 1: Go to your project directory

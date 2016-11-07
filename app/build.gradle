@@ -52,6 +52,10 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-v4'
         exclude module: 'recyclerview-v7'
     }
+    compile 'io.appium:java-client:4.1.2'
+    compile 'org.openqa.selenium.server:selenium-server:1.0-20081010.060147'
+    compile 'org.openqa.selenium:selenium-rc:1.0-20081010.060147'
+    compile 'org.seleniumhq.selenium:selenium:2.0rc2'
 }
 configurations.all {
     // Currently espresso is dependent on support-annotations:22.2.0
